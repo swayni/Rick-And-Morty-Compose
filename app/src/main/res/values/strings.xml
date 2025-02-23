@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Rick And Morty</string>
+
+    <string name="characters_title">Characters</string>
+    <string name="episodes_title">Episodes</string>
+    <string name="loading">Loading…</string>
+    <string name="list">List</string>
+    <string name="favorite">Favorite</string>
+    <string name="favorite_list">Favorite List</string>
+    <string name="back">Back</string>
+</resources>
